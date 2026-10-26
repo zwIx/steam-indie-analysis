@@ -30,6 +30,8 @@ Read the [two-page report](reports/Indie_Analysis.pdf) for the charts and limita
 
 ## Limits
 
+Reviews reflect players who chose to leave feedback. Requiring 100+ reviews also excludes many less-visible games, so these findings describe the reviewed sample rather than the wider indie market.
+
 Coverage and review freshness are uneven. Prices may be discounted or stale; zero prices are kept only with a Free To Play label. Genre labels overlap, and some groups are small. The filters narrow the sample but cannot repair missing source data. These comparisons describe associations, not a formula for sales or better reviews.
 
 A newer Kaggle download may produce different counts. The published outputs use the 125,855-record file analysed in this project.
